@@ -25,6 +25,12 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CodingDecoding1.html">CodingDecoding Problems 1</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CodingDecoding2.html">CodingDecoding Problems 2</a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CodingDecoding3.html">CodingDecoding Problems 3</a></li>
+	</ul>
 	
 
 
