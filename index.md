@@ -31,6 +31,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CodingDecoding3.html">CodingDecoding Problems 3</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/BloodRelationBasic.html">Blood Relation Basics</a></li>
+	</ul>
 	
 
 
