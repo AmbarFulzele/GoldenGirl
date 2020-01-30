@@ -34,7 +34,9 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/BloodRelationBasic.html">Blood Relation Basics</a></li>
 	</ul>
-	
+         <ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/AbstractReasoning1.html">Abstract Reasoning 1</a></li>
+	</ul>	
 
 
 </body></html>
