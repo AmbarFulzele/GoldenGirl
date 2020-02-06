@@ -46,6 +46,9 @@
 <ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/BloodRelation.html">Blood Relation</a></li>
 	</ul>
+<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/InEquality.html">InEquality</a></li>
+	</ul>
 
 
 </body></html>
