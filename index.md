@@ -50,7 +50,7 @@
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/InEquality.html">InEquality</a></li>
 	</ul>
 <ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/SeatingArrangement.html">Seating Arrangements</a></li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/SeatingArrangement.html">Seating Arrangement</a></li>
 	</ul>
 
 </body></html>
