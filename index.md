@@ -40,17 +40,45 @@
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/AbstractReasoning2.html">Abstract Reasoning 2</a></li>
 	</ul>
-<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/AbstractReasoning3.html">Abstract Reasoning 3</a></li>
 	</ul>
-<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/BloodRelation.html">Blood Relation</a></li>
 	</ul>
-<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/InEquality.html">InEquality</a></li>
 	</ul>
-<ul>
+	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/SeatingArrangement.html">Seating Arrangement</a></li>
 	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CriticalReasoning.html"></a>Critical Reasoning</li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/Puzzles.html"></a>Puzzles</li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/ParaJumble.html"></a></li>
+	</ul>	
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest1.html"></a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest2.html"></a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest4.html"></a></li>
+	</ul>
+	<ul>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest5.html"></a></li>
+	</ul>
+	
+
+
+
+
+
+	
 
 </body></html>
