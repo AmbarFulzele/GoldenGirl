@@ -53,7 +53,7 @@
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/SeatingArrangement.html">Seating Arrangement</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CriticalReasoning.html"></a>Critical Reasoning</li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CriticalReasoning.html">Critical Reasoning</a></li>
 	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/Puzzles.html"></a>Puzzles</li>
