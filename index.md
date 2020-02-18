@@ -56,16 +56,16 @@
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/CriticalReasoning.html">Critical Reasoning</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/Puzzles.html"></a>Puzzles</li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/Puzzles.html">Puzzles</a></li>
 	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/ParaJumble.html"></a></li>
 	</ul>	
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest1.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest1.html">V1</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest2.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest2.html">V2</a></li>
 	</ul>
 	<ul>
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest4.html"></a></li>
