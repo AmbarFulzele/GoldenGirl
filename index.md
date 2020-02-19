@@ -68,10 +68,10 @@
 	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest2.html">V2</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest4.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest4.html">V4</a></li>
 	</ul>
 	<ul>
-	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest5.html"></a></li>
+	  <li><a href="https://ambarfulzele.github.io/GoldenGirl/VerbalSectionalTest5.html">V5</a></li>
 	</ul>
 	
 
